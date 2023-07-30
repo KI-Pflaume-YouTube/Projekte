@@ -1,4 +1,4 @@
-# Folge 1: Bilder auf 4x hochskalieren mit DeepAI
+# Bilder auf 4x hochskalieren mit DeepAI
 
 import os
 import requests
